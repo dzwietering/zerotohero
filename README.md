@@ -12,6 +12,10 @@ In order to run this workshop you must have IBM SPSS Modeler intalled on your co
 2. IBM SPSS Modeler student edition for students and professors via [On the Hub](https://ibm.onthehub.com/WebStore/OfferingDetails.aspx?o=3c9603d0-ddb8-e711-80f7-000d3af41938)
 3. Use the IBM Digital Technical Enablement (DTE) [IBM SPSS Modeler virtual environment](https://www.ibm.com/cloud/garage/dte/tutorial/create-and-train-machine-learning-model-without-coding)
 
+**Licensing your copy of SPSS**
+
+If you get a licensing error, start the SPSS License Authorization Wizard (LAW) and license with this authorization code: `d16bc9ba8d7a87aeec5b`
+
 **This repository contains the following assets for running the workshop**
 1. ![Workbook](Workbook)
 2. ![Data](Data)
