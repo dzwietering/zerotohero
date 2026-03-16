@@ -35,8 +35,7 @@ The workhop consists of the following steps which are all outlined in the [workb
 
 Once you have completed the workshop the end result will look like the screenshot below.
 
-
-# ENJOY !!!
+Enjoy your workshop!
 
 ![](pics/completed_workshop.jpg)
 
