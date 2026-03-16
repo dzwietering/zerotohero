@@ -37,4 +37,4 @@ Once you have completed the workshop the end result will look like the screensho
 
 ![](pics/completed_workshop.jpg)
 
-**Enjoy your workshop and don't hesitate to experiment!**
+**Enjoy your workshop and feel free to experiment!**
